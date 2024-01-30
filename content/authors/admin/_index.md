@@ -12,7 +12,7 @@ education:
   - course: BSc in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2008
-first_name: Shiung Wu
+first_name: Kurtis Smith
 highlight_name: true
 interests:
 - Artificial Intelligence
